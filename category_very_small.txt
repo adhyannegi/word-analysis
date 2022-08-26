@@ -1,0 +1,11 @@
+1 person
+2 bicycle
+7 train
+18 dog
+44 bottle
+47 cup
+51 bowl
+63 couch
+78 microwave
+79 oven
+86 vase
